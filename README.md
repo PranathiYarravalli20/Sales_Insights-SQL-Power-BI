@@ -2,4 +2,4 @@
 
 Performing Data Visualization using Power BI tool.
 
-Data Visualization and analysing of hardware store products across different regions ,performing profit analysis and observing revenue trend of the company.
+Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
