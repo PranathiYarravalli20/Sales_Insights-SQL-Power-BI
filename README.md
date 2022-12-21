@@ -32,3 +32,7 @@ Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
 Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
 Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 Majority of the sales were takes place in the month of January followed by November and March.
+
+Dashboard of Performance Tracking of sales for quick view:
+![image](https://user-images.githubusercontent.com/106775145/208984969-0c0fe6c4-7904-46bc-95c9-234dc201a50f.png)
+
