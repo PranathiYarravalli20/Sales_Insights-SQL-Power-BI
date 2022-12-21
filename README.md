@@ -1,28 +1,30 @@
 ## Sales Insights using-SQL & Power-BI
 
-Project description,functions,queries written,environment used is mentioned in the [readme file]
+Project description,functions,queries written,environment used are mentioned in readme.
 
 ### Sales Data - Cleaning & Exploration
 Removing and adding columns as necessary in the tables and preparing the database tables for Analysis.
 Data subset collected in [SQL dump file](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Database%20dump.sql) and loaded to SQL server for exploring the data tables.
-### Tables:
+Tables:
 1. Customers
 2. Date
 3. Markets
 4. Products
 5. Transactions
 
-Following SQL queries for [data cleaning and exploration](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
+### SQL queries for data cleaning and exploration
+[click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
 
 ### Analysis using SQL
-[Queries](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Analysis%20using%20SQL.sql)
+[Click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Analysis%20using%20SQL.sql)
+Queries:
 1. all tables and their rows in sales schema
 2. Date range in date table
 3. Revenue generated in 2020 and 2019.
 4. Currency and their count
 5. Total sales amount collected by each market
 
-## Data Visualization using [Power BI dashboard](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Sales%20Insights%20-%20Visualization.pbix)
+### Data Visualization using [Power BI dashboard](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Sales%20Insights%20-%20Visualization.pbix)
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
 
 ### Insights:
