@@ -28,10 +28,10 @@ Queries:
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
 
 ### Insights:
-Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
-Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
-Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
-Majority of the sales were takes place in the month of January followed by November and March.
+1. Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
+2. Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
+3. Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
+4. Majority of the sales were takes place in the month of January followed by November and March.
 
 Dashboard of Performance Tracking of sales for quick view:
 ![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
