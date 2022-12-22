@@ -18,11 +18,16 @@ Tables:
 ### Analysis using SQL
 [Click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Analysis%20using%20SQL.sql)
 Queries:
-1. all tables and their rows in sales schema
+1. All tables and their rows in sales schema
 2. Date range in date table
 3. Revenue generated in 2020 and 2019.
 4. Currency and their count
 5. Total sales amount collected by each market
+6. Sales quantity ordered from each market on each day
+7. Sales across all markets in each year
+8. Categorizing Product sales based on sales quantity in each order
+9. Calculating revenue Contribution percentage for each market across all years
+10. Finding market name that made maximum sales
 
 ### Data Visualization using [Power BI dashboard](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Sales%20Insights%20-%20Visualization.pbix)
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
