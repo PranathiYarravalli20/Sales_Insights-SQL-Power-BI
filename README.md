@@ -34,7 +34,8 @@ Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, 
 Majority of the sales were takes place in the month of January followed by November and March.
 
 Dashboard of Performance Tracking of sales for quick view:
-![dasboard quick view](https://user-images.githubusercontent.com/106775145/208985808-2bd58629-d2fd-4694-aea5-376cc7a8b335.png)
+![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
+
 
 
 
